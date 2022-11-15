@@ -624,7 +624,7 @@ public class DataAccess  {
 		
 			Event ev = db.find(Event.class, event.getEventNumber());
 			
-			if (ev.DoesQuestionExists(question)) throw new QuestionAlreadyExist(ResourceBundle.getBundle("Etiquetas").getString("ErrorQueryAlreadyExist"));
+			if (ev.doesQuestionExists(question)) throw new QuestionAlreadyExist(ResourceBundle.getBundle("Etiquetas").getString("ErrorQueryAlreadyExist"));
 			
 			db.getTransaction().begin();
 			Question q = ev.addQuestion(question, betMinimum);
@@ -708,7 +708,7 @@ public class DataAccess  {
 	public boolean existQuestion(Event event, String question) {
 		System.out.println(">> DataAccess: existQuestion=> event= "+event+" question= "+question);
 		Event ev = db.find(Event.class, event.getEventNumber());
-		return ev.DoesQuestionExists(question);
+		return ev.doesQuestionExists(question);
 	
 	}
 	
