@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: emaitzakIpiniMockTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 0.854 sec <<< FAILURE! - in emaitzakIpiniMockTest
-test1(emaitzakIpiniMockTest)  Time elapsed: 0.812 sec  <<< FAILURE!
+Tests run: 2, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 0.845 sec <<< FAILURE! - in emaitzakIpiniMockTest
+test1(emaitzakIpiniMockTest)  Time elapsed: 0.799 sec  <<< FAILURE!
 org.mockito.exceptions.verification.WantedButNotInvoked: 
 
 Wanted but not invoked:
@@ -14,7 +14,7 @@ Actually, there were zero interactions with this mock.
 
 	at emaitzakIpiniMockTest.test1(emaitzakIpiniMockTest.java:42)
 
-test2(emaitzakIpiniMockTest)  Time elapsed: 0.042 sec  <<< ERROR!
+test2(emaitzakIpiniMockTest)  Time elapsed: 0.046 sec  <<< ERROR!
 org.mockito.exceptions.misusing.CannotStubVoidMethodWithReturnValue: 
 
 'EmaitzakIpini' is a *void method* and it *cannot* be stubbed with a *return value*!

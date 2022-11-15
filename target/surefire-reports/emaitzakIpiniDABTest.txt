@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: emaitzakIpiniDABTest
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 0.68 sec <<< FAILURE! - in emaitzakIpiniDABTest
-test0(emaitzakIpiniDABTest)  Time elapsed: 0.593 sec  <<< ERROR!
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 0.734 sec <<< FAILURE! - in emaitzakIpiniDABTest
+test0(emaitzakIpiniDABTest)  Time elapsed: 0.656 sec  <<< ERROR!
 java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
 	at emaitzakIpiniDABTest.initialize(emaitzakIpiniDABTest.java:32)
 

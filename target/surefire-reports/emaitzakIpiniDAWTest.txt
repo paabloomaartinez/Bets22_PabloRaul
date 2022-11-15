@@ -1,12 +1,12 @@
 -------------------------------------------------------------------------------
 Test set: emaitzakIpiniDAWTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.009 sec <<< FAILURE! - in emaitzakIpiniDAWTest
-test1(emaitzakIpiniDAWTest)  Time elapsed: 0.009 sec  <<< ERROR!
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.011 sec <<< FAILURE! - in emaitzakIpiniDAWTest
+test1(emaitzakIpiniDAWTest)  Time elapsed: 0.01 sec  <<< ERROR!
 java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
 	at emaitzakIpiniDAWTest.initialize(emaitzakIpiniDAWTest.java:33)
 
-test2(emaitzakIpiniDAWTest)  Time elapsed: 0 sec  <<< ERROR!
+test2(emaitzakIpiniDAWTest)  Time elapsed: 0.001 sec  <<< ERROR!
 java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
 	at emaitzakIpiniDAWTest.initialize(emaitzakIpiniDAWTest.java:33)
 

@@ -1022,7 +1022,7 @@ Bets22_PabloRaul,domain,Jarraitzailea,45,0,0,0,19,0,10,0,10,0
 Bets22_PabloRaul,domain,Team,33,35,0,0,13,9,8,3,8,3
 Bets22_PabloRaul,domain,Registered,130,99,2,0,46,30,30,8,29,8
 Bets22_PabloRaul,domain,Event,99,97,12,0,35,27,18,11,12,11
-Bets22_PabloRaul,domain,TeamRenderer,70,0,2,0,16,0,3,0,2,0
+Bets22_PabloRaul,domain,TeamRenderer,70,0,2,0,18,0,3,0,2,0
 Bets22_PabloRaul,domain,ApustuAnitza,137,61,12,0,37,19,19,9,13,9
 Bets22_PabloRaul,net.bytebuddy.implementation.bytecode.assign.reference,GenericTypeAwareAssigner,42,14,12,0,8,2,7,1,1,1
 Bets22_PabloRaul,net.bytebuddy.implementation.bytecode.assign.reference,GenericTypeAwareAssigner.IsAssignableToVisitor.OfNonGenericType,23,0,2,0,5,0,3,0,2,0
@@ -2408,7 +2408,7 @@ Bets22_PabloRaul,net.bytebuddy.jar.asm,ModuleVisitor,102,0,20,0,32,0,20,0,10,0
 Bets22_PabloRaul,net.bytebuddy.jar.asm,MethodVisitor,491,0,106,0,126,0,87,0,34,0
 Bets22_PabloRaul,net.bytebuddy.jar.asm,ClassWriter,1271,0,142,0,293,0,104,0,33,0
 Bets22_PabloRaul,net.bytebuddy.jar.asm,Type,1111,0,181,0,255,0,146,0,37,0
-Bets22_PabloRaul,net.bytebuddy.jar.asm,ByteVector,263,456,34,20,52,95,25,17,3,12
+Bets22_PabloRaul,net.bytebuddy.jar.asm,ByteVector,260,459,33,21,51,96,24,18,3,12
 Bets22_PabloRaul,net.bytebuddy.jar.asm,ClassReader,5665,0,648,0,1396,0,413,0,48,0
 Bets22_PabloRaul,net.bytebuddy.jar.asm,Context,0,3,0,0,0,1,0,1,0,1
 Bets22_PabloRaul,net.bytebuddy.jar.asm,Edge,12,0,0,0,5,0,1,0,1,0
