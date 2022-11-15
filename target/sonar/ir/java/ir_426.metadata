@@ -1,2 +1,1 @@
-gui.MainUserGUI#<init>()V
-gui.MainUserGUI#initialize()V
+domain.Apustua#<init>(Ldomain/ApustuAnitza;Ldomain/Quote;)V

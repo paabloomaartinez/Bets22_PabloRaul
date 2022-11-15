@@ -1,1 +1,2 @@
-exceptions.QuoteAlreadyExist#<init>()V
+domain.Quote#toString()Ljava/lang/String;
+java.lang.Double#toString(D)Ljava/lang/String;

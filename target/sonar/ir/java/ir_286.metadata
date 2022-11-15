@@ -1,2 +1,1 @@
-domain.Sport#equals(Ljava/lang/Object;)Z
-java.lang.String#equals(Ljava/lang/Object;)Z
+domain.Sport#setIzena(Ljava/lang/String;)V

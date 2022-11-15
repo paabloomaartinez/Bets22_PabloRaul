@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="es"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>Apustua.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">Bets22_Pablo-Raul</a> &gt; <a href="index.source.html" class="el_package">domain</a> &gt; <span class="el_source">Apustua.java</span></div><h1>Apustua.java</h1><pre class="source lang-java linenums">package domain;
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="es"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>Apustua.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">Bets22_PabloRaul</a> &gt; <a href="index.source.html" class="el_package">domain</a> &gt; <span class="el_source">Apustua.java</span></div><h1>Apustua.java</h1><pre class="source lang-java linenums">package domain;
 
 import java.io.Serializable;
 import java.util.Vector;
@@ -42,7 +42,7 @@ public class Apustua implements Serializable{
 <span class="fc" id="L42">	}</span>
 
 	public Integer getApostuaNumber() {
-<span class="nc" id="L45">		return apustuaNumber;</span>
+<span class="fc" id="L45">		return apustuaNumber;</span>
 	}
 
 	public void setApostuaNumber(Integer apustuaNumber) {
@@ -58,12 +58,12 @@ public class Apustua implements Serializable{
 <span class="nc" id="L58">	}</span>
 
 	public String getEgoera() {
-<span class="fc" id="L61">		return egoera;</span>
+<span class="nc" id="L61">		return egoera;</span>
 	}
 
 	public void setEgoera(String egoera) {
-<span class="fc" id="L65">		this.egoera = egoera;</span>
-<span class="fc" id="L66">	}</span>
+<span class="nc" id="L65">		this.egoera = egoera;</span>
+<span class="nc" id="L66">	}</span>
 	
 	public ApustuAnitza getApustuAnitza() {
 <span class="fc" id="L69">		return apustuAnitza;</span>
@@ -74,26 +74,26 @@ public class Apustua implements Serializable{
 <span class="nc" id="L74">	}</span>
 	
 	public boolean galdutaMarkatu(Quote quo) {
-<span class="pc bpc" id="L77" title="1 of 4 branches missed.">		if(kuota.getQuestion().getQuestionNumber().equals(quo.getQuestion().getQuestionNumber()) &amp;&amp; !(quo.getQuoteNumber().equals(kuota.getQuoteNumber()))) {</span>
-<span class="fc" id="L78">			this.egoera=&quot;galduta&quot;;</span>
-<span class="fc" id="L79">			return true;</span>
+<span class="nc bnc" id="L77" title="All 4 branches missed.">		if(kuota.getQuestion().getQuestionNumber().equals(quo.getQuestion().getQuestionNumber()) &amp;&amp; !(quo.getQuoteNumber().equals(kuota.getQuoteNumber()))) {</span>
+<span class="nc" id="L78">			this.egoera=&quot;galduta&quot;;</span>
+<span class="nc" id="L79">			return true;</span>
 		}
-<span class="fc" id="L81">		return false;</span>
+<span class="nc" id="L81">		return false;</span>
 	}
 	
 	public void eguneratuApustuKant(Sport s) {
-<span class="nc" id="L85">		s.eguneratuApustuKantitatea();</span>
-<span class="nc" id="L86">	}</span>
+<span class="fc" id="L85">		s.eguneratuApustuKantitatea();</span>
+<span class="fc" id="L86">	}</span>
 	
 	@Override
 	public boolean equals(Object o) {
-<span class="nc bnc" id="L90" title="All 2 branches missed.">		if(o==null) {</span>
+<span class="pc bpc" id="L90" title="1 of 2 branches missed.">		if(o==null) {</span>
 <span class="nc" id="L91">			return false;</span>
 		}
-<span class="nc bnc" id="L93" title="All 2 branches missed.">		if(this.getClass() != o.getClass())</span>
+<span class="pc bpc" id="L93" title="1 of 2 branches missed.">		if(this.getClass() != o.getClass())</span>
 <span class="nc" id="L94">			return false;</span>
-<span class="nc" id="L95">		Apustua a = (Apustua) o;</span>
-<span class="nc" id="L96">		return this.getApostuaNumber().equals(a.getApostuaNumber()); </span>
+<span class="fc" id="L95">		Apustua a = (Apustua) o;</span>
+<span class="fc" id="L96">		return this.getApostuaNumber().equals(a.getApostuaNumber()); </span>
 	}
 	@Override
 	public int hashCode() {

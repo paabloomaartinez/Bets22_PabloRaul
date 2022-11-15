@@ -1,16 +1,110 @@
 
-4domain.Apustua#getApostuaNumber()Ljava/lang/Integer;[
-QC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Apustua.java, ,( "1*ƒ
-1[
-QC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Apustua.java-	 -(¦
-£
-[
-QC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Apustua.java-	 -(
-%0java.lang.Integer"__id*%*#
-domain.Apustua"
-apustuaNumber"x
-[
-QC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Apustua.java- -(
+3domain.UserAdapter#getValueAt(II)Ljava/lang/Object;_
+UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/UserAdapter.java ("3"4"5"6"1*Ÿ
+3_
+UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/UserAdapter.java# #(A­
+ª
+_
+UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/UserAdapter.java# #(&
+%8java.util.Vector"__id*)*'
+domain.UserAdapter"
+ListaApuestas­
+ª
+_
+UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/UserAdapter.java# #(4
+%9domain.ApustuAnitza"
+__arrayGet*
+
+%8java.util.Vector*
+""Ú×
+_
+UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/UserAdapter.java# #(@
+%10java.lang.Double"1domain.ApustuAnitza#getBalioa()Ljava/lang/Double;*
+
+%9domain.ApustuAnitza2getBalioa()"|
+_
+UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/UserAdapter.java#
+ #(A
 
-%0java.lang.IntegerB
-domain.Apustua
+%10java.lang.Double*“
+4_
+UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/UserAdapter.java" "(?­
+ª
+_
+UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/UserAdapter.java" "(&
+%5java.util.Vector"__id*)*'
+domain.UserAdapter"
+ListaApuestas­
+ª
+_
+UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/UserAdapter.java" "(4
+%6domain.ApustuAnitza"
+__arrayGet*
+
+%5java.util.Vector*
+""ÑÎ
+_
+UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/UserAdapter.java" "(>
+%7java.util.Date"-domain.ApustuAnitza#getData()Ljava/util/Date;*
+
+%6domain.ApustuAnitza2	getData()"y
+_
+UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/UserAdapter.java"
+ "(?
+
+%7java.util.Date*Ä
+5_
+UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/UserAdapter.java! !(5­
+ª
+_
+UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/UserAdapter.java! !(&
+%3java.util.Vector"__id*)*'
+domain.UserAdapter"
+ListaApuestas­
+ª
+_
+UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/UserAdapter.java! !(4
+%4domain.ApustuAnitza"
+__arrayGet*
+
+%3java.util.Vector*
+"""~
+_
+UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/UserAdapter.java!
+ !(5
+
+%4domain.ApustuAnitza*¡
+6_
+UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/UserAdapter.java   (C­
+ª
+_
+UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/UserAdapter.java   (&
+%0java.util.Vector"__id*)*'
+domain.UserAdapter"
+ListaApuestas­
+ª
+_
+UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/UserAdapter.java   (4
+%1domain.ApustuAnitza"
+__arrayGet*
+
+%0java.util.Vector*
+""ÝÚ
+_
+UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/UserAdapter.java   (B
+%2java.util.Vector"3domain.ApustuAnitza#getApustuak()Ljava/util/Vector;*
+
+%1domain.ApustuAnitza2getApustuak()"{
+_
+UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/UserAdapter.java 
+  (C
+
+%2java.util.Vector*Ï
+1_
+UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/UserAdapter.java%	 %("i
+_
+UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/UserAdapter.java% %(
+"":
+"":
+""B
+domain.UserAdapter

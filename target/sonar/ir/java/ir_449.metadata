@@ -1,1 +1,3 @@
-configuration.ConfigXML#getTagValue(Ljava/lang/String;Lorg/w3c/dom/Element;)Ljava/lang/String;
+gui.MainUserGUI#getRdbtnNewRadioButton_1()Ljavax/swing/JRadioButton;
+javax.swing.JRadioButton#instance-init#
+javax.swing.JRadioButton#<init>(Ljava/lang/String;)V

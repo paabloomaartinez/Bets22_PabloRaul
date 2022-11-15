@@ -1,24 +1,24 @@
 
 6dataAccess.DataAccess#gertaeraEzabatu(Ldomain/Event;)Zd
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÉ É("11*”	
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÇ Ç("11*”	
 3d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaí í(∫
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaë ë(∫
 ∑
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaí í(&
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaë ë(&
 %14javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 dbØ
 ¨
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaí% í(3
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaë% ë(3
 %15domain.Quote"
 __arrayGet*
 
 listQUOjava.util.List*
 ""œÃ
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaí í(4
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaë ë(4
 %16domain.Quote"[javax.persistence.EntityManager#find(Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;*(
 &
 %14javax.persistence.EntityManager*
@@ -27,21 +27,21 @@ XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAc
 %15domain.Quote2)find(Ljava/lang/Class;Ljava/lang/Object;)õ
 ò
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaí í(5
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaë ë(5
 quodomain.Quote"__id*
 
 %16domain.QuoteÉÄ
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaì ì(
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaí í(
 %17void"7dataAccess.DataAccess#completarApuesta(Ldomain/Quote;)V*
 dataAccess.DataAccess*
 
 quodomain.Quote2 completarApuesta(Ldomain/Quote;)*
 4*¶
 4d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaë ë(≤Ø
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaê ê(≤Ø
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaë ë( 
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaê ê( 
 
 %13int"java.util.List#size()I*
 
@@ -49,15 +49,15 @@ XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAc
 3
 1*É
 5d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaé é( π
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaç ç( π
 ∂
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaé é( %
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaç ç( %
 %8javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db≤Ø
 e
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaé é(à"
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaç ç(à"
 %9javax.persistence.TypedQuery"njavax.persistence.EntityManager#createQuery(Ljava/lang/String;Ljava/lang/Class;)Ljavax/persistence/TypedQuery;*'
 %
 %8javax.persistence.EntityManager*OM
@@ -65,52 +65,52 @@ KSELECT q FROM Quote q WHERE q.getQuestion().getEvent().getEventNumber() =?1*
 ""20createQuery(Ljava/lang/String;Ljava/lang/Class;)æ
 ª
 e
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaé é(â&
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaç ç(â&
 Qqueryjavax.persistence.TypedQuery"__id*$
 "
 %9javax.persistence.TypedQuery‡›
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaè è(0
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaé é(0
 %10java.lang.Integer"0domain.Event#getEventNumber()Ljava/lang/Integer;*
 
 eventdomain.Event2getEventNumber()€ÿ
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaè è(1#
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaé é(1#
 %11javax.persistence.TypedQuery"\javax.persistence.TypedQuery#setParameter(ILjava/lang/Object;)Ljavax/persistence/TypedQuery;*(
 &
 Qqueryjavax.persistence.TypedQuery*2*
 
 %10java.lang.Integer2!setParameter(ILjava/lang/Object;)˘ˆ
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaê ê(/
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaè è(/
 %12java.util.List"<javax.persistence.TypedQuery#getResultList()Ljava/util/List;*(
 &
 Qqueryjavax.persistence.TypedQuery2getResultList()£
 †
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaê ê(0
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaè è(0
 listQUOjava.util.List"__id*
 
 %12java.util.List*
 4*
 6d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaç ç(èå
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaå å(èå
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaç	 ç(
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaå	 å(
 %4java.util.Date"java.util.Date°
 û
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaç ç(
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaå å(
 %5"java.util.Date#<init>()V*
 
 %4java.util.Date’“
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaç ç(.
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaå å(.
 %6java.util.Date"+domain.Event#getEventDate()Ljava/util/Date;*
 
 eventdomain.Event2getEventDate()ÓÎ
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaç ç(/	
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaå å(/	
 %7int"+java.util.Date#compareTo(Ljava/util/Date;)I*
 
 %4java.util.Date*
@@ -119,15 +119,15 @@ XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAc
 5
 1*≤
 7d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaà à(ç
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaá á(ç
 ä
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaà à(
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaá á(
 qdomain.Question"__id*
 ""Æ
 ´
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaà à(
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaá á(
 qdomain.Question"
 __arrayGet*
 
@@ -136,23 +136,23 @@ __arrayGet*
 6
 9*∆
 9d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaâ â(’“
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaà à(’“
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaâ â(
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaà à(
 %3java.lang.String"-domain.Question#getResult()Ljava/lang/String;*
 
 qdomain.Question2getResult()*
 7*ö	
 11d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÑ Ñ(π
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÉ É(π
 ∂
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÑ Ñ(%
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÉ É(%
 %0javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 dbÃ…
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÑ Ñ()
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÉ É()
 %1domain.Event"[javax.persistence.EntityManager#find(Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;*'
 %
 %0javax.persistence.EntityManager*
@@ -161,48 +161,48 @@ XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAc
 evdomain.Event2)find(Ljava/lang/Class;Ljava/lang/Object;)ú
 ô
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÑ Ñ(*
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÉ É(*
 eventdomain.Event"__id*
 
 %1domain.EventŸ÷
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÜ Ü(-
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÖ Ö(-
 %2java.util.Vector"-domain.Event#getQuestions()Ljava/util/Vector;*
 
 eventdomain.Event2getQuestions()¢
 ü
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÜ Ü(.
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÖ Ö(.
 listQjava.util.List"__id*
 
 %2java.util.Vector*
 7*π
 1d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaó ó(∫
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javañ ñ(∫
 ∑
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaó ó(&
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javañ ñ(&
 %18javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db®•
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaó ó(*
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javañ ñ(*
 %19#javax.persistence.EntityTransaction"Ujavax.persistence.EntityManager#getTransaction()Ljavax/persistence/EntityTransaction;*(
 &
 %18javax.persistence.EntityManager2getTransaction()€ÿ
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaó ó(
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javañ ñ(
 %20void",javax.persistence.EntityTransaction#begin()V*,
 *
 %19#javax.persistence.EntityTransaction2begin()∫
 ∑
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaò ò(&
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaó ó(&
 %21javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 dbíè
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaò ò(
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaó ó(
 %22void";javax.persistence.EntityManager#remove(Ljava/lang/Object;)V*(
 &
 %21javax.persistence.EntityManager*
@@ -210,22 +210,22 @@ XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAc
 eventdomain.Event2remove(Ljava/lang/Object;)∫
 ∑
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaô ô(&
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaò ò(&
 %23javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db®•
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaô ô(*
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaò ò(*
 %24#javax.persistence.EntityTransaction"Ujavax.persistence.EntityManager#getTransaction()Ljavax/persistence/EntityTransaction;*(
 &
 %23javax.persistence.EntityManager2getTransaction()›⁄
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaô ô(
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaò ò(
 %25void"-javax.persistence.EntityTransaction#commit()V*,
 *
 %24#javax.persistence.EntityTransaction2commit()"n
 d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaö ö(
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaô ô(
 "":
 evdomain.EventB
 dataAccess.DataAccess

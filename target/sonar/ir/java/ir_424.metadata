@@ -1,1 +1,1 @@
-gui.MainUserGUI#getBusinessLogic()LbusinessLogic/BLFacade;
+gui.DiruaSartuGUI#jButtonClose_actionPerformed(Ljava/awt/event/ActionEvent;)V

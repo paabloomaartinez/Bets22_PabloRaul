@@ -1,5 +1,1 @@
-businessLogic.BLFacadeImplementation#DiruaSartu(Ldomain/Registered;Ljava/lang/Double;Ljava/lang/String;)V
-domain.DineroFechaMota#instance-init#
-java.util.Date#<init>()V
-domain.DineroFechaMota#<init>(DLjava/util/Date;Ljava/lang/String;)V
-java.util.Date#instance-init#
+businessLogic.BLFacadeImplementation#isRegister(Ljava/lang/String;)Z

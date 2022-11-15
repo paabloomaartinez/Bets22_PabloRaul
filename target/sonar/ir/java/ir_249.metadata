@@ -1,1 +1,1 @@
-businessLogic.BLFacadeImplementation#jarraituTaldea(Ldomain/Registered;Ldomain/Team;)V
+businessLogic.BLFacadeImplementation#getEventsAll()Ljava/util/List;

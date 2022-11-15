@@ -1,1 +1,1 @@
-domain.Transaction#setErabiltzailea(Ldomain/Registered;)V
+domain.Registered#setPassword(Ljava/lang/String;)V

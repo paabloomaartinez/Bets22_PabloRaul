@@ -1,1 +1,1 @@
-businessLogic.BLFacadeImplementation#initializeBD()V
+businessLogic.BLFacadeImplementation#instance-init#

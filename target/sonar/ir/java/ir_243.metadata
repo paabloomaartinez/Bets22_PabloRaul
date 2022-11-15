@@ -1,1 +1,1 @@
-businessLogic.BLFacadeImplementation#getEventsAll()Ljava/util/List;
+businessLogic.BLFacadeImplementation#apustuaEzabatu(Ldomain/Registered;Ldomain/ApustuAnitza;)V

@@ -1,1 +1,1 @@
-domain.Quote#equals(Ljava/lang/Object;)Z
+domain.Quote#setForecast(Ljava/lang/String;)V

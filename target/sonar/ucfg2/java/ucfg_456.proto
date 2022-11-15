@@ -1,90 +1,93 @@
 
-@gui.MainGUI#getRdbtnNewRadioButton_2()Ljavax/swing/JRadioButton;Z
-NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.java¥ ¥(."3*Ò
-2Z
-NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.java∂, ∂(8ôñ
-Z
-NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.java∂ ∂(+
-%1javax.swing.JRadioButton"javax.swing.JRadioButtonÕ
- 
-Z
-NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.java∂ ∂(9
-%2"4javax.swing.JRadioButton#<init>(Ljava/lang/String;)V* 
+,gui.MainGUI#getBoton2()Ljavax/swing/JButton;X
+NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.javan n("3*ﬂ
+2X
+NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.javap p(%çä
+X
+NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.javap p(#
+%1javax.swing.JButton"javax.swing.JButtonü
+ú
+X
+NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.javap p(%
+%2"javax.swing.JButton#<init>()V*
+
+%1javax.swing.JButtonß
+§
+X
+NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.javap p(%%
+gui.MainGUI"
+jButtonCreateQuery"__id*
+
+%1javax.swing.JButtonß
+§
+X
+NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.javaq q(
+%3javax.swing.JButton"__id*'*%
+gui.MainGUI"
+jButtonCreateQuery¸
+˘
+X
+NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.javaq q(C
+%4java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetasëé
+X
+NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.javaq q(\
+%5java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;* 
 
-%1javax.swing.JRadioButton*
+%4java.util.ResourceBundle*
+CreateQuery2getString(Ljava/lang/String;)ˆÛ
+X
+NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.javaq q(]
 
-Castellano±
-Æ
-Z
-NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.java∂ ∂(9(
-gui.MainGUI"
-rdbtnNewRadioButton_2"__id* 
-
-%1javax.swing.JRadioButton±
-Æ
-Z
-NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.java∑ ∑(
-%3javax.swing.JRadioButton"__id***(
-gui.MainGUI"
-rdbtnNewRadioButton_2ÉÄ
-Z
-NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.java∑/ ∑(=
-%4gui.MainGUI$6"gui.MainGUI$6ò
-ï
-Z
-NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.java∑+ Ω(
-%5"java.lang.Object#<init>()V*
+%6void"7javax.swing.AbstractButton#setText(Ljava/lang/String;)V*
+
+%3javax.swing.JButton*
+
+%5java.lang.String2setText(Ljava/lang/String;)ß
+§
+X
+NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.javar r(
+%7javax.swing.JButton"__id*'*%
+gui.MainGUI"
+jButtonCreateQueryÄ~
+X
+NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.javar, r(I
+%8gui.MainGUI$2"gui.MainGUI$2ñ
+ì
+X
+NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.javar( w(
+%9"java.lang.Object#<init>()V*
 
-%4gui.MainGUI$6®•
-Z
-NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.java∑ Ω(
-
-%6void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V* 
-
-%3javax.swing.JRadioButton*
+%8gui.MainGUI$2¢ü
+X
+NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.javar w(
+%10void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%7javax.swing.JButton*
 
-%4gui.MainGUI$622addActionListener(Ljava/awt/event/ActionListener;)¶
-£
-Z
-NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.javaæ æ(
-%7javax.swing.ButtonGroup"__id* *
-gui.MainGUI"
-buttonGroup±
-Æ
-Z
-NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.javaæ æ((
-%8javax.swing.JRadioButton"__id***(
-gui.MainGUI"
-rdbtnNewRadioButton_2çä
-Z
-NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.javaæ æ()
-
-%9void":javax.swing.ButtonGroup#add(Ljavax/swing/AbstractButton;)V*
-
-%7javax.swing.ButtonGroup* 
-
-%8javax.swing.JRadioButton2!add(Ljavax/swing/AbstractButton;)*
-1*õ
-3Z
-NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.javaµ µ(±
-Æ
-Z
-NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.javaµ µ(
-%0javax.swing.JRadioButton"__id***(
-gui.MainGUI"
-rdbtnNewRadioButton_2*
+%8gui.MainGUI$222addActionListener(Ljava/awt/event/ActionListener;)*
+1*è
+3X
+NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.javao o(ß
+§
+X
+NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.javao o(
+%0javax.swing.JButton"__id*'*%
+gui.MainGUI"
+jButtonCreateQuery*
 2
-1*ï
-1Z
-NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.java¿	 ¿(≤
-Ø
-Z
-NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.java¿	 ¿(
-%10javax.swing.JRadioButton"__id***(
-gui.MainGUI"
-rdbtnNewRadioButton_2"
-Z
-NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.java¿ ¿(!
-
-%10javax.swing.JRadioButtonB
+1*Ç
+1X
+NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.javay	 y(®
+•
+X
+NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.javay	 y(
+%11javax.swing.JButton"__id*'*%
+gui.MainGUI"
+jButtonCreateQuery"x
+X
+NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/MainGUI.javay y(
+
+%11javax.swing.JButtonB
 gui.MainGUI

@@ -1,1 +1,2 @@
-businessLogic.BLFacadeImplementation#getEvents(Ljava/util/Date;)Ljava/util/Vector;
+gui.DestacadosGUI#instance-init#
+gui.MainGUI#getBusinessLogic()LbusinessLogic/BLFacade;

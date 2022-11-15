@@ -1,1 +1,1 @@
-exceptions.QuoteAlreadyExist#<init>(Ljava/lang/String;)V
+domain.Quote#addApustua(Ldomain/Apustua;)V

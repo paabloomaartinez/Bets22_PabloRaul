@@ -1,1 +1,3 @@
-businessLogic.BLFacadeImplementation#storeQuote(Ljava/lang/String;Ljava/lang/Double;Ldomain/Question;)V
+businessLogic.BLFacadeImplementation#close()V
+dataAccess.DataAccess#instance-init#
+dataAccess.DataAccess#<init>(Z)V

@@ -1,1 +1,1 @@
-businessLogic.BLFacadeImplementation#apustuaEzabatu(Ldomain/Registered;Ldomain/ApustuAnitza;)V
+businessLogic.BLFacadeImplementation#findQuestion(Ldomain/Event;)Ljava/util/Collection;

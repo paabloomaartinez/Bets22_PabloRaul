@@ -1,1 +1,3 @@
-businessLogic.BLFacadeImplementation#isLogin(Ljava/lang/String;Ljava/lang/String;)Ldomain/Registered;
+businessLogic.BLFacadeImplementation#<init>(Z)V
+dataAccess.DataAccess#instance-init#
+dataAccess.DataAccess#<init>(Z)V

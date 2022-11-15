@@ -1,1 +1,1 @@
-domain.Registered#setApustuAnitzak(Ljava/util/Vector;)V
+exceptions.ApustuaAlreadyExist#<init>(Ljava/lang/String;)V

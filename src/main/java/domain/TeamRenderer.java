@@ -1,12 +1,12 @@
 package domain;
 
+import java.awt.Color;
 import java.awt.Component;
 import java.awt.Image;
 
 import javax.swing.ImageIcon;
 import javax.swing.JLabel;
 import javax.swing.JList;
-import javax.swing.ListCellRenderer;
 
 import businessLogic.BLFacade;
 import gui.MainGUI;
@@ -29,8 +29,10 @@ public class TeamRenderer extends JLabel{
 	         setIcon(imageIcon);
 	         setText(team.getIzena());
 	         if(isSelected) {
-	        		setBackground(list.getSelectionBackground().GRAY);
-		            setForeground(list.getSelectionForeground().WHITE);
+	        		list.getSelectionBackground();
+					setBackground(Color.GRAY);
+		            list.getSelectionForeground();
+					setForeground(Color.WHITE);
 	        }else {
 	        	setBackground(list.getSelectionBackground());
 	            setForeground(list.getSelectionForeground());

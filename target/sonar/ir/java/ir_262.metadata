@@ -1,1 +1,1 @@
-gui.AdminGUI#setBussinessLogic(LbusinessLogic/BLFacade;)V
+businessLogic.BLFacadeImplementation#findSport(Ldomain/Event;)Ldomain/Sport;

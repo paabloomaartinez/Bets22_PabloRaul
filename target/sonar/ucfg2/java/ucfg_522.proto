@@ -1,16 +1,16 @@
 
-@configuration.ConfigXML#getBusinessLogicName()Ljava/lang/String;f
-ZC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/configuration/ConfigXML.javaš š(#"1*°
-1f
-ZC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/configuration/ConfigXML.java›	 ›(½
-º
-f
-ZC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/configuration/ConfigXML.java›	 ›(
-%0java.lang.String"__id*2*0
-configuration.ConfigXML"
-businessLogicName"‚
-f
-ZC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/configuration/ConfigXML.java› ›(
+2domain.DineroFechaMota#getMota()Ljava/lang/String;c
+YC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/DineroFechaMota.java ("1*˜
+1c
+YC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/DineroFechaMota.java	 (¬
+©
+c
+YC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/DineroFechaMota.java	 (
+%0java.lang.String"__id*$*"
+domain.DineroFechaMota"
+mota"
+c
+YC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/DineroFechaMota.java (
 
-%0java.lang.StringB
-configuration.ConfigXML
+%0java.lang.StringB
+domain.DineroFechaMota

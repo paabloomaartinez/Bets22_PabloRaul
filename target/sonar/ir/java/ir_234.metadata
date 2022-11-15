@@ -1,3 +1,1 @@
-businessLogic.BLFacadeImplementation#ApustuaEgin(Ldomain/Registered;Ljava/util/Vector;Ljava/lang/Double;Ljava/lang/Integer;)Z
-domain.DatosApuesta#<init>(Ldomain/Registered;Ljava/util/Vector;DI)V
-domain.DatosApuesta#instance-init#
+businessLogic.BLFacadeImplementation#storeRegistered(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Integer;)V

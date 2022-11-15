@@ -1,1 +1,1 @@
-domain.Registered#setMode(Ljava/lang/String;)V
+domain.Registered#setTransakzioak(Ljava/util/Vector;)V

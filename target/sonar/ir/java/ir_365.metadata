@@ -1,1 +1,1 @@
-domain.Transaction#getTransactionNumber()Ljava/lang/Integer;
+domain.Registered#getUsername()Ljava/lang/String;

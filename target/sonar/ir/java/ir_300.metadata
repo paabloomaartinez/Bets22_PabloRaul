@@ -1,1 +1,1 @@
-domain.Quote#setQuestion(Ldomain/Question;)V
+domain.Quote#setApustuak(Ljava/util/Vector;)V

@@ -1,1 +1,1 @@
-exceptions.QuoteAlreadyExist#instance-init#
+domain.Quote#setQuestion(Ldomain/Question;)V

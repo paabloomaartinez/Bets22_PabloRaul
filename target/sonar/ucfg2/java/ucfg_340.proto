@@ -1,17 +1,17 @@
 
-+domain.Quote#getQuestion()Ldomain/Question;Y
-OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Quote.javaQ Q("1*ò
+,domain.Quote#getApustuak()Ljava/util/Vector;Y
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Quote.java1 1(#"1*ô
 1Y
-OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Quote.javaR	 R(›
-˜
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Quote.java2	 2(œ
+™
 Y
-OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Quote.javaR	 R(
-%0domain.Question"__id**
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Quote.java2	 2(
+%0java.util.Vector"__id**
 domain.Quote"
 
-question"t
+apustuak"u
 Y
-OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Quote.javaR R(
-
-%0domain.QuestionB
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Quote.java2 2(
+
+%0java.util.VectorB
 domain.Quote

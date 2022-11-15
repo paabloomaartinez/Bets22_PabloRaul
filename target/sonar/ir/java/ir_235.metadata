@@ -1,1 +1,5 @@
-businessLogic.BLFacadeImplementation#findApustua(Ldomain/Registered;)Ljava/util/List;
+businessLogic.BLFacadeImplementation#gertaerakSortu(Ljava/lang/String;Ljava/util/Date;Ljava/lang/String;)Z
+exceptions.EventFinished#<init>(Ljava/lang/String;)V
+java.util.Date#<init>()V
+exceptions.EventFinished#instance-init#
+java.util.Date#instance-init#

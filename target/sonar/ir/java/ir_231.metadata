@@ -1,1 +1,1 @@
-businessLogic.BLFacadeImplementation#findQuestion(Ldomain/Event;)Ljava/util/Collection;
+businessLogic.BLFacadeImplementation#initializeBD()V

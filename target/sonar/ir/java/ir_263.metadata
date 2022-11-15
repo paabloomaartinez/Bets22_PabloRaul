@@ -1,2 +1,3 @@
-gui.AdminGUI#<init>(Ldomain/Registered;)V
-gui.AdminGUI#initialize()V
+businessLogic.BLFacadeImplementation#getEventsIterator(Ljava/util/Date;)Literator/ExtendedIterator;
+iterator.ExtendedIteratorEvents#instance-init#
+iterator.ExtendedIteratorEvents#<init>(Ljava/util/Vector;)V

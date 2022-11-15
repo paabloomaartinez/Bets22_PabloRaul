@@ -1,1 +1,1 @@
-domain.Quote#setApustuak(Ljava/util/Vector;)V
+domain.Sport#addEvent(Ldomain/Event;)V

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="es"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>WindowTable.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">Bets22_PabloRaul</a> &gt; <a href="index.source.html" class="el_package">gui</a> &gt; <span class="el_source">WindowTable.java</span></div><h1>WindowTable.java</h1><pre class="source lang-java linenums">package gui;
+
+import java.awt.BorderLayout;
+import java.awt.Dimension;
+
+import javax.swing.JFrame;
+import javax.swing.JScrollPane;
+import javax.swing.JTable;
+
+import domain.Registered;
+import domain.UserAdapter;
+
+public class WindowTable extends JFrame {
+	private Registered	user;
+	private JTable	tabla;
+
+	public WindowTable(Registered user){
+<span class="nc" id="L18">		super(&quot;Apuestas realizadas por &quot;+	user.getUsername() +&quot;:&quot;);</span>
+<span class="nc" id="L19">		this.setBounds(100,	100,	700,	200);</span>
+<span class="nc" id="L20">		this.user =	user;</span>
+
+<span class="nc" id="L22">		UserAdapter	adapt	=	new UserAdapter(user);</span>
+
+<span class="nc" id="L24">		tabla =	new JTable(adapt);</span>
+<span class="nc" id="L25">		tabla.setPreferredScrollableViewportSize(new Dimension(500,	70));</span>
+		//Creamos un JscrollPane	y	le agregamos la JTable
+<span class="nc" id="L27">		JScrollPane	scrollPane =	new JScrollPane(tabla);</span>
+		//Agregamos el	JScrollPane	al contenedor
+<span class="nc" id="L29">		getContentPane().add(scrollPane,	BorderLayout.CENTER);</span>
+<span class="nc" id="L30">	}</span>
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.8.202204050719</span></div></body></html>

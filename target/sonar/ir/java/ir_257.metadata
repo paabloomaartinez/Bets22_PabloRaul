@@ -1,2 +1,1 @@
-domain.TeamRenderer#instance-init#
-gui.MainGUI#getBusinessLogic()LbusinessLogic/BLFacade;
+businessLogic.BLFacadeImplementation#getEventsTeam(Ldomain/Team;)Ljava/util/List;

@@ -1,1 +1,1 @@
-domain.Sport#toString()Ljava/lang/String;
+domain.Sport#getIzena()Ljava/lang/String;

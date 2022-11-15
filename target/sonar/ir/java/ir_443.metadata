@@ -1,1 +1,2 @@
-configuration.ConfigXML#getLocale()Ljava/lang/String;
+gui.MainUserGUI#<init>()V
+gui.MainUserGUI#initialize()V

@@ -1,3 +1,1 @@
-gui.MainUserGUI#getRdbtnNewRadioButton_1()Ljavax/swing/JRadioButton;
-javax.swing.JRadioButton#instance-init#
-javax.swing.JRadioButton#<init>(Ljava/lang/String;)V
+domain.Apustua#getEgoera()Ljava/lang/String;

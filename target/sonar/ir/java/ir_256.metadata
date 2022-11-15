@@ -1,1 +1,1 @@
-businessLogic.BLFacadeImplementation#findSport(Ldomain/Event;)Ldomain/Sport;
+businessLogic.BLFacadeImplementation#findUser(Ldomain/Registered;)Ldomain/Registered;

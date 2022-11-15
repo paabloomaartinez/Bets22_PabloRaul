@@ -1,1 +1,1 @@
-domain.Registered#addJarraitutako(Ldomain/Jarraitzailea;)V
+domain.Registered#setDiruLimitea(Ljava/lang/Double;)V

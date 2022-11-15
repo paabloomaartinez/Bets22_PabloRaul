@@ -1,1 +1,1 @@
-businessLogic.BLFacadeImplementation#findTransakzioak(Ldomain/Registered;)Ljava/util/List;
+businessLogic.BLFacadeImplementation#findQuote(Ldomain/Question;)Ljava/util/Collection;

@@ -1,1 +1,9 @@
-domain.Registered#<init>()V
+gui.WindowTable#<init>(Ldomain/Registered;)V
+java.awt.Dimension#<init>(II)V
+domain.UserAdapter#<init>(Ldomain/Registered;)V
+javax.swing.JTable#<init>(Ljavax/swing/table/TableModel;)V
+java.awt.Dimension#instance-init#
+domain.UserAdapter#instance-init#
+javax.swing.JTable#instance-init#
+javax.swing.JScrollPane#instance-init#
+javax.swing.JScrollPane#<init>(Ljava/awt/Component;)V

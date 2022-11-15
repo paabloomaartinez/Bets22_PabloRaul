@@ -1,1 +1,1 @@
-businessLogic.BLFacadeImplementation#findQuote(Ldomain/Question;)Ljava/util/Collection;
+businessLogic.BLFacadeImplementation#isLogin(Ljava/lang/String;Ljava/lang/String;)Ldomain/Registered;

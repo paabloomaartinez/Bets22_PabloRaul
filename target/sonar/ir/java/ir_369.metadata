@@ -1,1 +1,1 @@
-domain.Transaction#getDirua()Ljava/lang/Double;
+domain.Registered#getBankAccount()Ljava/lang/Integer;

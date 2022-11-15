@@ -1,1 +1,1 @@
-businessLogic.BLFacadeImplementation#gertaerakKopiatu(Ldomain/Event;Ljava/util/Date;)Z
+businessLogic.BLFacadeImplementation#findTransakzioak(Ldomain/Registered;)Ljava/util/List;

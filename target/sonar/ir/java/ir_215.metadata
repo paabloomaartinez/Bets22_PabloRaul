@@ -1,2 +1,1 @@
-gui.DestacadosGUI#instance-init#
-gui.MainGUI#getBusinessLogic()LbusinessLogic/BLFacade;
+iterator.ExtendedIteratorEvents#previous()Ljava/lang/Object;

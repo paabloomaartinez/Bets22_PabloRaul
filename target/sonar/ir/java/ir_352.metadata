@@ -1,1 +1,1 @@
-domain.Registered#toString()Ljava/lang/String;
+domain.Registered#getJarraitzaileLista()Ljava/util/Vector;

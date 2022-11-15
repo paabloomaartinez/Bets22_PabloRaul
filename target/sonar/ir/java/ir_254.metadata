@@ -1,1 +1,1 @@
-businessLogic.BLFacadeImplementation#findEventFromApustua(Ldomain/Apustua;)Ldomain/Event;
+businessLogic.BLFacadeImplementation#getAllTeams()Ljava/util/List;

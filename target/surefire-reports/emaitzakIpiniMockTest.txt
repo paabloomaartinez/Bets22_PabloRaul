@@ -1,30 +1,20 @@
 -------------------------------------------------------------------------------
 Test set: emaitzakIpiniMockTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 0.881 sec <<< FAILURE! - in emaitzakIpiniMockTest
-test1(emaitzakIpiniMockTest)  Time elapsed: 0.871 sec  <<< FAILURE!
+Tests run: 2, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 0.854 sec <<< FAILURE! - in emaitzakIpiniMockTest
+test1(emaitzakIpiniMockTest)  Time elapsed: 0.812 sec  <<< FAILURE!
 org.mockito.exceptions.verification.WantedButNotInvoked: 
 
 Wanted but not invoked:
 dataAccess.EmaitzakIpini(
     <Capturing argument>
 );
--> at emaitzakIpiniMockTest.test1(emaitzakIpiniMockTest.java:41)
+-> at emaitzakIpiniMockTest.test1(emaitzakIpiniMockTest.java:42)
+Actually, there were zero interactions with this mock.
 
-However, there were exactly 3 interactions with this mock:
-dataAccess.open(true);
--> at businessLogic.BLFacadeImplementation.<init>(BLFacadeImplementation.java:57)
+	at emaitzakIpiniMockTest.test1(emaitzakIpiniMockTest.java:42)
 
-dataAccess.initializeDB();
--> at businessLogic.BLFacadeImplementation.<init>(BLFacadeImplementation.java:58)
-
-dataAccess.close();
--> at businessLogic.BLFacadeImplementation.<init>(BLFacadeImplementation.java:59)
-
-
-	at emaitzakIpiniMockTest.test1(emaitzakIpiniMockTest.java:41)
-
-test2(emaitzakIpiniMockTest)  Time elapsed: 0.008 sec  <<< ERROR!
+test2(emaitzakIpiniMockTest)  Time elapsed: 0.042 sec  <<< ERROR!
 org.mockito.exceptions.misusing.CannotStubVoidMethodWithReturnValue: 
 
 'EmaitzakIpini' is a *void method* and it *cannot* be stubbed with a *return value*!
@@ -42,5 +32,5 @@ Due to the nature of the syntax above problem might occur because:
    - with doReturn|Throw() family of methods. More in javadocs for Mockito.spy() method.
 4. Mocking methods declared on non-public parent classes is not supported.
 
-	at emaitzakIpiniMockTest.test2(emaitzakIpiniMockTest.java:56)
+	at emaitzakIpiniMockTest.test2(emaitzakIpiniMockTest.java:57)
 

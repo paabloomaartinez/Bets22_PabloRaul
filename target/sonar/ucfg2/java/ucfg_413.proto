@@ -1,16 +1,17 @@
 
-8domain.Transaction#getErabiltzailea()Ldomain/Registered;_
-UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Transaction.java/ /(#"1*’
-1_
-UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Transaction.java0	 0(­
-ª
-_
-UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Transaction.java0	 0(
-%0domain.Registered"__id*(*&
-domain.Transaction"
-erabiltzaile"|
-_
-UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Transaction.java0 0(
-
-%0domain.RegisteredB
-domain.Transaction
+1domain.Registered#getPassword()Ljava/lang/String;`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Registered.java¿ ¿("1*Ž
+1`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Registered.javaÀ	 À(¨
+¥
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Registered.javaÀ	 À(
+%0java.lang.String"__id*#*!
+domain.Registered"
+
+password"|
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Registered.javaÀ À(
+
+%0java.lang.StringB
+domain.Registered

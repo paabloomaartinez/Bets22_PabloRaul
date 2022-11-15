@@ -1,1 +1,1 @@
-businessLogic.BLFacadeImplementation#findTeam(Ldomain/Registered;)Ldomain/Team;
+businessLogic.BLFacadeImplementation#jarraituTaldea(Ldomain/Registered;Ldomain/Team;)V

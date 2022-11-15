@@ -1,1 +1,1 @@
-gui.FindQuestionsGUI#jButton2_actionPerformed(Ljava/awt/event/ActionEvent;)V
+domain.Transaction#setErabiltzailea(Ldomain/Registered;)V

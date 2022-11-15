@@ -1,1 +1,1 @@
-domain.Apustua#getApustuAnitza()Ldomain/ApustuAnitza;
+domain.UserAdapter#getValueAt(II)Ljava/lang/Object;

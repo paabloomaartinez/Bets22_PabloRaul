@@ -31,7 +31,7 @@ public class ApustuAnitza implements Serializable{
 	private Registered user;
 	private String egoera;
 	private Integer apustuKopia;
-	private Double balioa; 
+	private Double balioa;
 	
 	public ApustuAnitza() {
 		super();

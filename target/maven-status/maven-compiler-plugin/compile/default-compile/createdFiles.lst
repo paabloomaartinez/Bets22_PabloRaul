@@ -18,6 +18,7 @@ gui\GertaeraEzabatuGUI$2.class
 gui\TaldeaJarraituGUI$2.class
 gui\SugerenciasGUI$4.class
 gui\JarraituGUI$1.class
+iterator\ExtendedIteratorEvents.class
 gui\KuotakIpiniGUI$4.class
 dataAccess\ObjectdbManagerServer$1.class
 gui\DestacadosGUI$2.class
@@ -47,6 +48,7 @@ gui\TaldeaApostatuGUI$1.class
 domain\Question.class
 domain\Apustua.class
 gui\EmaitzakIpiniGUI$2.class
+businessLogic\FactoryBusinessLogic.class
 gui\RegisteredGUI$5.class
 gui\ApustuaEginGUI.class
 gui\MainUserGUI$1.class
@@ -60,11 +62,13 @@ gui\KuotakIpiniGUI$3.class
 gui\FindQuestionsGUI$1.class
 gui\JarraituGUI.class
 gui\TaldeaApostatuGUI.class
+iterator\main.class
 exceptions\EventFinished.class
 gui\EmaitzakIpiniGUI$1.class
 configuration\UtilDate.class
 businessLogic\BusinessLogicServer$1.class
 gui\AdminGUI$9.class
+gui\WindowTable.class
 gui\RegisteredGUI$4.class
 gui\GertaeraInfo$2.class
 gui\ApustuakEzabatuGUI$3.class
@@ -77,6 +81,7 @@ gui\MainGUI$1.class
 gui\KuotakIpiniGUI$2.class
 gui\RegisterGUI$1.class
 gui\PopularGUI$4.class
+gui\RegisteredGUI$10.class
 gui\GertaeraEzabatuGUI$3.class
 domain\DineroFechaMota.class
 gui\TaldeaApostatuGUI$2.class
@@ -103,6 +108,7 @@ gui\GertaerakSortuGUI$3.class
 gui\TaldeaJarraituGUI$1.class
 gui\ApustuaEginGUI$6.class
 gui\MainGUI$2.class
+iterator\ExtendedIterator.class
 gui\AdminGUI$4.class
 gui\EmaitzakIpiniGUI$3.class
 gui\GertaerakKopiatuGUI$2.class
@@ -134,6 +140,7 @@ domain\Transaction.class
 gui\RegisteredGUI$1.class
 gui\MainGUI$5.class
 domain\Sport.class
+domain\UserAdapter.class
 gui\GertaerakKopiatuGUI$4.class
 gui\FindQuestionsGUI.class
 gui\MugimenduakBistaratuGUI$1.class

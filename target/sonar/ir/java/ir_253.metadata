@@ -1,1 +1,1 @@
-businessLogic.BLFacadeImplementation#findQuestionFromQuote(Ldomain/Quote;)Ldomain/Question;
+businessLogic.BLFacadeImplementation#ezJarraituTaldea(Ldomain/Registered;)V

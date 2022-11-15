@@ -1,4 +1,1 @@
-gui.GertaeraInfo#instance-init#
-gui.MainGUI#getBusinessLogic()LbusinessLogic/BLFacade;
-javax.swing.DefaultListModel#instance-init#
-javax.swing.DefaultListModel#<init>()V
+domain.Quote#removeApustua(Ldomain/Apustua;)V

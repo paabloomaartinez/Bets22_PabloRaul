@@ -1,172 +1,183 @@
 
-6gui.RegisteredGUI#getLblNewLabel()Ljavax/swing/JLabel;`
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaê ê("3*ä$
+2gui.RegisteredGUI#getBoton3()Ljavax/swing/JButton;`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaâ â("3*Ω)
 2`
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaí# í(1Ñ
-Å
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaã ã(&ïí
 `
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaí# í(H
-%1java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
-java.util.ResourceBundle*
-	Etiquetasöó
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaã ã($
+%1javax.swing.JButton"javax.swing.JButtonß
+§
 `
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaí# í(b
-%2java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;* 
-
-%1java.util.ResourceBundle*
-SelectOption2getString(Ljava/lang/String;)ìê
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaã ã(&
+%2"javax.swing.JButton#<init>()V*
+
+%1javax.swing.JButton∂
+≥
 `
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaí í("
-%3javax.swing.JLabel"javax.swing.JLabel—
-Œ
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaã ã(&,
+gui.RegisteredGUI"
+jButtonQueryQueries"__id*
+
+%1javax.swing.JButton∂
+≥
 `
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaí í(c
-%4".javax.swing.JLabel#<init>(Ljava/lang/String;)V*
-
-%3javax.swing.JLabel*
-
-%2java.lang.String¥
-±
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaå å(
+%3javax.swing.JButton"__id*.*,
+gui.RegisteredGUI"
+jButtonQueryQueries}
+{
 `
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaí í(c+
-gui.RegisteredGUI"
-jLabelSelectOption"__id*
-
-%3javax.swing.JLabel¥
-±
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaå2 å(<	
+%4int"__id*
+""âÜ
 `
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaì ì(
-%5javax.swing.JLabel"__id*-*+
-gui.RegisteredGUI"
-jLabelSelectOption«ƒ
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaå# å('
+%5java.awt.Font"java.awt.FontŒ
+À
 `
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaì ì(%
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaå å(A
+%6"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%5java.awt.Font*
+
+Tahoma*
+	
+%4int*2ÒÓ
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaå å(B
 
-%6void"$javax.swing.JComponent#setOpaque(Z)V*
-
-%5javax.swing.JLabel*22setOpaque(Z)¥
-±
+%7void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%3javax.swing.JButton*
+
+%5java.awt.Font2setFont(Ljava/awt/Font;)∂
+≥
 `
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaî î(
-%7javax.swing.JLabel"__id*-*+
-gui.RegisteredGUI"
-jLabelSelectOptionâ
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaç ç(
+%8javax.swing.JButton"__id*.*,
+gui.RegisteredGUI"
+jButtonQueryQueriesâ
 Ü
 `
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaî$ î(.
-%8java.awt.Color"__id*
-""ˇ¸
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaç% ç(4
+%9java.awt.Color"__id*
+""Å˛
 `
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaî î(/
-
-%9void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*
-
-%7javax.swing.JLabel*
-
-%8java.awt.Color2setBackground(Ljava/awt/Color;)µ
-≤
-`
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaï ï(
-%10javax.swing.JLabel"__id*-*+
-gui.RegisteredGUI"
-jLabelSelectOptionﬂ‹
-`
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaï ï(1
-%11void"#java.awt.Component#setBounds(IIII)V*
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaç ç(5
+%10void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*
 
-%10javax.swing.JLabel*2°*2*2±*2:2setBounds(IIII)µ
-≤
-`
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javañ ñ(
-%12javax.swing.JLabel"__id*-*+
-gui.RegisteredGUI"
-jLabelSelectOption~
-|
-`
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javañ1 ñ(:
-
-%13int"__id*
-""äá
-`
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javañ" ñ(&
-%14java.awt.Font"java.awt.Font—
-Œ
-`
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javañ ñ(?
-%15"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+%8javax.swing.JButton*
 
-%14java.awt.Font*
-
-Tahoma*
-
-
-%13int*2Û
+%9java.awt.Color2setForeground(Ljava/awt/Color;)∑
+¥
 `
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javañ ñ(@
-%16void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
-
-%12javax.swing.JLabel*
-
-%14java.awt.Font2setFont(Ljava/awt/Font;)µ
-≤
-`
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaó ó(
-%17javax.swing.JLabel"__id*-*+
-gui.RegisteredGUI"
-jLabelSelectOptionä
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaé é(
+%11javax.swing.JButton"__id*.*,
+gui.RegisteredGUI"
+jButtonQueryQueriesä
 á
 `
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaó$ ó(/
-%18java.awt.Color"__id*
-""Çˇ
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaé% é(/
+%12java.awt.Color"__id*
+""ÉÄ
 `
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaó ó(0
-%19void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*
-
-%17javax.swing.JLabel*
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaé é(0
+%13void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*
+
+%11javax.swing.JButton*
 
-%18java.awt.Color2setForeground(Ljava/awt/Color;)µ
-≤
+%12java.awt.Color2setBackground(Ljava/awt/Color;)∑
+¥
 `
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaò ò(
-%20javax.swing.JLabel"__id*-*+
-gui.RegisteredGUI"
-jLabelSelectOption~
-|
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaè è(
+%14javax.swing.JButton"__id*.*,
+gui.RegisteredGUI"
+jButtonQueryQueries «
 `
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaò- ò(B
-
-%21int"__id*
-""Á‰
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaè è(&
+%15void"$javax.swing.JComponent#setOpaque(Z)V*
+
+%14javax.swing.JButton*22setOpaque(Z)∑
+¥
 `
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaò ò(C
-%22void"-javax.swing.JLabel#setHorizontalAlignment(I)V*
-
-%20javax.swing.JLabel*
-
-
-%21int2setHorizontalAlignment(I)*
-1*§
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaê ê(
+%16javax.swing.JButton"__id*.*,
+gui.RegisteredGUI"
+jButtonQueryQueriesﬂ‹
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaê ê(2
+%17void"#java.awt.Component#setBounds(IIII)V*
+
+%16javax.swing.JButton*2
+*2v*2ö*2D2setBounds(IIII)∑
+¥
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaë ë(
+%18javax.swing.JButton"__id*.*,
+gui.RegisteredGUI"
+jButtonQueryQueriesÖ
+Ç
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaë ë(D
+%19java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetasúô
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaë ë(^
+%20java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*!
+
+%19java.util.ResourceBundle*
+QueryQueries2getString(Ljava/lang/String;)Å˛
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaë ë(_
+%21void"7javax.swing.AbstractButton#setText(Ljava/lang/String;)V*
+
+%18javax.swing.JButton*
+
+%20java.lang.String2setText(Ljava/lang/String;)∑
+¥
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaí í(
+%22javax.swing.JButton"__id*.*,
+gui.RegisteredGUI"
+jButtonQueryQueriesñì
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaí- í(J
+%23gui.RegisteredGUI$3"gui.RegisteredGUI$3¶
+£
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaí) ò(
+%24"java.lang.Object#<init>()V*
+
+%23gui.RegisteredGUI$3≤Ø
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaí ò(
+%25void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%22javax.swing.JButton*
+
+%23gui.RegisteredGUI$322addActionListener(Ljava/awt/event/ActionListener;)*
+1*¶
 3`
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaë ë(¥
-±
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaä ä(∂
+≥
 `
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaë ë(
-%0javax.swing.JLabel"__id*-*+
-gui.RegisteredGUI"
-jLabelSelectOption*
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaä ä(
+%0javax.swing.JButton"__id*.*,
+gui.RegisteredGUI"
+jButtonQueryQueries*
 2
-1*û
+1*¢
 1`
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaö	 ö(µ
-≤
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaö	 ö(∑
+¥
 `
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaö	 ö(
-%23javax.swing.JLabel"__id*-*+
-gui.RegisteredGUI"
-jLabelSelectOption"
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaö	 ö(
+%26javax.swing.JButton"__id*.*,
+gui.RegisteredGUI"
+jButtonQueryQueries"Ä
 `
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaö ö(
-
-%23javax.swing.JLabelB
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaö ö(
+
+%26javax.swing.JButtonB
 gui.RegisteredGUI
